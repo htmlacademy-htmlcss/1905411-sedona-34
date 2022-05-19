@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Евгений Ходырев](https://up.htmlacademy.ru/htmlcss/34/user/1905411).
-* Наставник: [Михаил Колотович] https://htmlacademy.ru/profile/id225353.
+* Наставник: [Михаил Колотович](https://htmlacademy.ru/profile/id225353).
 
 ---
 
